@@ -8,7 +8,7 @@ function Favoritos() {
   const { favorito } = useFavoritosContext();
   return (
     <>
-      <Banner img="favorite" color="#AF7EAA" />
+      <Banner img="favoritos" color="#AF7EAA" />
       <Titulo>
         <h1>Mis favoritos</h1>
       </Titulo>
